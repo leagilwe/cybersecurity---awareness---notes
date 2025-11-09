@@ -1,16 +1,31 @@
-# Cybersecurity Best Practices
+# Security Best Practices
 
-## Password Security
-- Use strong, unique passwords
-- Enable two-factor authentication
-- Don't reuse passwords across sites
+## Password Management
 
-## Email Safety
-- Don't click suspicious links
-- Verify sender email addresses
-- Be cautious with attachments
+- Use a password manager to generate and store complex passwords.
+- Enable two-factor authentication (2FA) on all accounts that support it.
+- Do not reuse passwords across different services.
 
-## Social Media Safety
-- Review privacy settings regularly
-- Don't share personal information publicly
-- Be careful what you post about work/school
+## Email Security
+
+- Be cautious of unsolicited emails, especially those with links or attachments.
+- Verify the sender's email address for authenticity.
+- Do not provide personal or sensitive information via email.
+
+## Social Media
+
+- Adjust privacy settings to limit public exposure of personal information.
+- Be wary of sharing too much personal information that could be used for social engineering.
+- Think before you post: once information is online, it can be difficult to remove.
+
+## Device Security
+
+- Keep operating systems and applications updated with the latest security patches.
+- Use antivirus software and keep it updated.
+- Encrypt sensitive data stored on devices.
+
+## Network Security
+
+- Use a firewall to monitor incoming and outgoing network traffic.
+- Avoid using public Wi-Fi for sensitive transactions; use a VPN if necessary.
+- Regularly review connected devices and network access.
