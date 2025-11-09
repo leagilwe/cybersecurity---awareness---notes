@@ -1,16 +1,38 @@
 # Research: Phishing Attacks
 
-## What is Phishing?
-Phishing is when attackers pretend to be legitimate organizations to steal sensitive information.
+## Introduction
 
-## Common Types
-- Email phishing
-- Spear phishing (targeted attacks)
-- Smishing (SMS phishing)
-- Vishing (voice call phishing)
+Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.
 
-## Prevention Methods
-- Employee training
-- Email filtering
-- Multi-factor authentication
-- Regular security updates
+## Types of Phishing
+
+### Email Phishing
+
+The most common form of phishing, where attackers send emails that appear to be from legitimate sources to trick recipients into revealing sensitive information.
+
+### Spear Phishing
+
+Targeted phishing attacks directed at specific individuals or organizations. Attackers often gather personal information about their targets to make their messages more convincing.
+
+### Smishing and Vishing
+
+- **Smishing**: Phishing via SMS messages.
+- **Vishing**: Phishing via voice calls (often using VoIP).
+
+### Pharming
+
+Redirecting users from legitimate websites to fraudulent ones without their knowledge, often by compromising DNS servers.
+
+## How to Identify Phishing Attempts
+
+- Check the sender's email address for irregularities.
+- Look for generic greetings and urgent language.
+- Hover over links to see the actual URL before clicking.
+- Be cautious of requests for sensitive information.
+
+## Prevention
+
+- Education and awareness training for employees and individuals.
+- Use of anti-phishing tools and email filters.
+- Implementing multi-factor authentication to reduce the impact of compromised credentials.
+
