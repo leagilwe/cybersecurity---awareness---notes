@@ -1,6 +1,25 @@
-# Security Terms Glossary
+# Glossary of Security Terms
 
-**Malware** - Malicious software designed to harm computers
-**Firewall** - Security system that controls network traffic
-**Encryption** - Converting data to secure code to prevent unauthorized access
-**VPN** - Virtual Private Network for secure internet connection
+**Malware**  
+Malicious software designed to harm, exploit, or otherwise compromise computing devices.
+
+**Firewall**  
+A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+**Encryption**  
+The process of converting information or data into a code, especially to prevent unauthorized access.
+
+**VPN (Virtual Private Network)**  
+A service that encrypts your internet traffic and protects your online identity by masking your IP address.
+
+**Two-Factor Authentication (2FA)**  
+A security process in which the user provides two different authentication factors to verify themselves.
+
+**Social Engineering**  
+The use of deception to manipulate individuals into divulging confidential or personal information that may be used for fraudulent purposes.
+
+**Phishing**  
+A type of social engineering attack that uses email or malicious websites to steal personal information.
+
+**Ransomware**  
+A type of malware that threatens to publish the victim's data or block access to it unless a ransom is paid.
